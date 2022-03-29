@@ -2,6 +2,11 @@
 
 ## Data Analysis
 
+
+### Bird strikes 
+
+I used the birdstrikes dataset. My goal was to visualize what is the cause for most of the birrdstikes and at what time they happen most. The detailed explanation of the project and notebook files with Python script can be found in this [link](https://github.com/abdu95/birdstrikes-project-py)
+
 ### Correlation project
 
 In this project, I tried to analyze the correlation between alcohol consumption and expected lifetime in different countries. The detailed explanation of the project and notebook files with Python script can be found in this [link](https://github.com/abdu95/mastering-data-science-process).
